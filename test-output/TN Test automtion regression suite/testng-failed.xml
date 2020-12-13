@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [TN Test automtion regression suite]" parallel="tests">
+  <test name="LoginPage Test">
+    <classes>
+      <class name="com.qa.hubspot.tests.LoginPageTest"/>
+    </classes>
+  </test> <!-- LoginPage Test -->
+</suite> <!-- Failed suite [TN Test automtion regression suite] -->
